@@ -1,6 +1,8 @@
 /*
 classes example
 From: http://www.cplusplus.com/doc/tutorial/classes/
+Topic: area calculation
+Date: 2020/02/26
 */
 
 #include <iostream>
